@@ -1,0 +1,27 @@
+# Core
+pandas==2.2.2
+numpy==1.26.4
+requests==2.31.0
+python-dotenv==1.0.1
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+
+# NLP
+nltk==3.8.1
+textblob==0.18.0
+vaderSentiment==3.3.2
+wordcloud==1.9.3
+scikit-learn==1.4.2
+
+# Reddit
+praw==7.7.1
+
+# Dashboard
+streamlit==1.35.0
+
+# Notebook
+jupyter==1.0.0
+ipykernel==6.29.4
