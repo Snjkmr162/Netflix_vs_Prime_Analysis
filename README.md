@@ -136,5 +136,6 @@ Reddit API access is currently pending. Part 2 will add:
 - **Watchmode API** : live streaming catalog data (Netflix source ID: 203, Prime source ID: 26)
 - **TMDb API** : title metadata including ratings, genres, runtime, and production countries
 - 500 titles collected, enriched, and analyzed (250 per platform)
-
+> **Note on data files:** Raw and processed CSVs are excluded from this repo
+> (via .gitignore) as they are fully regeneratable by running the pipeline
 ---
