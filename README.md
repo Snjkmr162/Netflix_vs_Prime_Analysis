@@ -16,9 +16,6 @@ Most streaming comparisons rely on outdated Kaggle CSVs. This project pulls
 then runs quantitative analysis across content volume, genre strategy,
 content quality, and international expansion to answer that question with data.
 
-Part 2 (qualitative sentiment analysis via Reddit) is currently in progress.
-
----
 
 ## 🔍 Key Findings
 
@@ -106,18 +103,6 @@ losing ground in three critical dimensions:
 Netflix is building a global content platform. Prime Video is consolidating
 around English-speaking markets with a library that is aging faster.
 
----
-
-## ⏳ Part 2 — Coming Soon
-
-Reddit API access is currently pending. Part 2 will add:
-
-- Audience sentiment analysis using VADER and TextBlob
-- Topic modeling (LDA) on r/netflix and r/primevideo
-- Word clouds showing what audiences love vs complain about on each platform
-- A qualitative narrative layer on top of this quantitative foundation
-
----
 
 ## 🔧 Tech Stack
 
